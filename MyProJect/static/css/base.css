@@ -1,0 +1,25 @@
+body{
+    background-color: #f3f3f3;
+}
+
+.logo{
+    width: 100px;
+    margin: 14px auto;
+    padding-right: 15px
+}
+
+.main{
+    background-color: #fff;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 730px;
+    padding: 10px;
+}
+
+.page-title{
+    text-align: center;
+}
+.msg{
+    color: red;
+    padding: 2px;
+}
